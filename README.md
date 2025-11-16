@@ -6,7 +6,7 @@
 <p align="center">
   <b>👋 Bonjour, je suis <u>Lenoirgn</u></b><br>
   Développeur BackEnd Junior passionné par l’informatique, les technologies de pointe et l’Intelligence Artificielle.<br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="code animation"/>
+  
 </p>
 
 ---
