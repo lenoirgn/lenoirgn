@@ -1,7 +1,5 @@
 <!-- Animation d'accueil -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2750&pause=600&color=3498DB&center=true&vCenter=true&multiline=true&width=860&height=60&lines=Bienvenue+sur+mon+GitHub+!+%F0%9F%91%8B;Développeur+BackEnd+Junior+en+quête+d’excellence+;Passionné+d’IA+et+d’innovation+technologique" alt="Animated Welcome" />
-</p>
+
 
 ---
 
