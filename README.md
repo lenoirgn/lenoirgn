@@ -24,7 +24,7 @@
 ### Langues 
 | ![EN](https://img.shields.io/badge/-Anglais-0072C6?style=flat-square&logo=googletranslate&logoColor=white) | ![FR](https://img.shields.io/badge/-Français-0055A4?style=flat-square&logo=france&logoColor=white) | ![GN](https://img.shields.io/badge/-Pular-008937?style=flat-square&logoColor=white) |
 |:--:|:--:|:--:|
-| 45% | 85% | 98% |
+| 45% | 95% | 98% |
 
 ### Outils & Technologies
 
