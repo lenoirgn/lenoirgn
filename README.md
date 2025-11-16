@@ -32,71 +32,10 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,django,html,css,git,github,linux,windows,azure" />
 </p>
 
-## 🏅 Compétences
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,django,html,css,git,github,linux,windows,azure" />
-</p>
+ 
+ 
 
-<p>
-  <b>Python</b>  
-  <img src="https://progress-bar.dev/85/?title=&color=41B883" width="300"/>
-  <b>85%</b>
-</p>
-<p>
-  <b>C/C++</b>  
-  <img src="https://progress-bar.dev/75/?title=&color=2496ED" width="300"/>
-  <b>75%</b>
-</p>
-<p>
-  <b>Django</b>  
-  <img src="https://progress-bar.dev/60/?title=&color=0f0f0f" width="300"/>
-  <b>60%</b>
-</p>
-<p>
-  <b>HTML/CSS</b>  
-  <img src="https://progress-bar.dev/65/?title=&color=e44d27" width="300"/>
-  <b>65%</b>
-</p>
-<p>
-  <b>Excel/Word/PowerPoint</b>  
-  <img src="https://progress-bar.dev/85/?title=Word/PowerPoint&color=4F75C2" width="300"/>
-  <b>85%</b>
-  <img src="https://progress-bar.dev/65/?title=Excel&color=3D9937" width="300"/>
-  <b>65%</b>
-</p>
-<p>
-  <b>Git / GitHub</b>  
-  <img src="https://progress-bar.dev/50/?title=Git/GitHub&color=333" width="300"/>
-  <b>50%</b>
-</p>
-<p>
-  <b>Bases de données</b>  
-  <img src="https://progress-bar.dev/45/?title=&color=E9BC3F" width="300"/>
-  <b>45%</b>
-</p>
-<p>
-  <b>FreeCad</b>  
-  <img src="https://progress-bar.dev/45/?title=&color=2F83A2" width="300"/>
-  <b>45%</b>
-</p>
-<p>
-  <b>Linux</b>  
-  <img src="https://progress-bar.dev/50/?title=&color=fcba03" width="300"/>
-  <b>50%</b>
-</p>
-<p>
-  <b>Windows</b>  
-  <img src="https://progress-bar.dev/70/?title=&color=0078D6" width="300"/>
-  <b>70%</b>
-</p>
-<p>
-  <b>Hébergement</b>  
-  <img src="https://progress-bar.dev/35/?title=&color=6C3483" width="300"/>
-  <b>35%</b>
-</p>
-
----
 
 
 ---
