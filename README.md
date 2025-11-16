@@ -1,31 +1,54 @@
-# 👋 Hello, I'm Lenoirgn
-
-Bienvenue sur mon profil GitHub ! Je suis passionné par le développement logiciel, l'open source et l'amélioration continue des applications.  
-Toujours curieux d’apprendre, j’aime relever les défis techniques et collaborer avec la communauté.
-
-## 💼 Compétences principales
-
-- **Langages** : Python, JavaScript, TypeScript, Java, C++
-- **Web** : React, Node.js, Express, HTML5, CSS3
-- **DevOps/Outils** : Docker, Git, GitHub Actions, CI/CD
-- **Autres** : SQL, MongoDB, REST API, Tests unitaires
-
-## 🚀 Projets phares
-
-- [NomDuProjet1](https://github.com/lenoirgn/nomduprojet1) : Quelques mots sur ce projet phare...
-- [NomDuProjet2](https://github.com/lenoirgn/nomduprojet2) : Un second projet qui montre tes compétences...
-
-## 📊 Statistiques GitHub
-
-![Lenoirgn's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenoirgn&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoirgn&layout=compact&theme=github_dark)
-
-## 📫 Me contacter
-
-- LinkedIn : [Ton Profil LinkedIn](https://linkedin.com/in/tonprofil)
-- Email : ton.email@exemple.com
-- Portfolio : [tonportfolio.com](https://tonportfolio.com) 
+<!-- Animation d'accueil -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2750&pause=600&color=3498DB&center=true&vCenter=true&multiline=true&width=860&height=60&lines=Bienvenue+sur+mon+GitHub+!+%F0%9F%91%8B;Développeur+BackEnd+Junior+en+quête+d’excellence+;Passionné+d’IA+et+d’innovation+technologique" alt="Animated Welcome" />
+</p>
 
 ---
 
-*Merci de visiter mon profil ! N’hésitez pas à me contacter ou à contribuer à mes projets.* 🚀
+<p align="center">
+  <b>👋 Bonjour, je suis <u>Lenoirgn</u></b><br>
+  Développeur BackEnd Junior passionné par l’informatique, les technologies de pointe et l’Intelligence Artificielle.<br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="code animation"/>
+</p>
+
+---
+
+## 💼 À propos de moi
+
+- 🎯 <b>Objectif professionnel :</b> Devenir Ingénieur en Intelligence Artificielle
+- 🛠️ <b>Expertises :</b> Développement Back-End, création de services web robustes, gestion de bases de données & intégration avancée d’APIs
+- 🚀 <b>Moteur :</b> Résolution de défis complexes, innovation, apprentissage continu & esprit d’équipe
+
+---
+
+## 🏅 Compétences
+
+### Langues 
+| ![EN](https://img.shields.io/badge/-Anglais-0072C6?style=flat-square&logo=googletranslate&logoColor=white) | ![FR](https://img.shields.io/badge/-Français-0055A4?style=flat-square&logo=france&logoColor=white) | ![GN](https://img.shields.io/badge/-Pular-008937?style=flat-square&logoColor=white) |
+|:--:|:--:|:--:|
+| 45% | 85% | 98% |
+
+### Outils & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,django,html,css,git,github,linux,windows,azure" />
+</p>
+
+| Compétence                  | Maîtrise   |
+|-----------------------------|:----------:|
+| 🗄️ Bases de données         | 45%        |
+| 🌐 Django                   | 60%        |
+| 🖥️ Python                   | 85%        |
+| 🧩 C/C++                    | 75%        |
+| 📊 Excel/Word/PowerPoint    | 65-85%     |
+| 💻 FreeCad                  | 45%        |
+| 🔗 Git/GitHub               | 50%        |
+| 🖼️ HTML/CSS                 | 65%        |
+| ☁️ Hébergement              | 35%        |
+| 🐧 Linux                    | 50%        |
+| 🪟 Windows                  | 70%        |
+
+---
+
+
+ 
